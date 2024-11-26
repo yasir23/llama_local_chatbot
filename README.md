@@ -99,7 +99,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## 💬 Questions or Feedback?
 
-For questions, suggestions, or feedback, please open an issue or reach out at [your.email@example.com](mailto:your.email@example.com).
+For questions, suggestions, or feedback, please open an issue or reach out at [your.email@example.com](mailto:yasirkhalily44@gmail.com).
 
 ---
 
