@@ -1,0 +1,395 @@
+Swain v Garban-Intercapital Mgt. Servs. Ltd.
+2001 NY Slip Op 30081(U)
+August 14, 2001
+Supreme Court, New York County
+Docket Number: 600456/01
+Judge: Martin Shulman
+Republished from New York State Unified Court
+System's E-Courts Service.
+Search E-Courts (http://www.nycourts.gov/ecourts) for
+any additional information on this case.
+This opinion is uncorrected and not selected for official
+publication.JULIAN SWAIN, GFINET INC. AND GFI 
+SECURITIES LLC, Index No.: 600456/01 
+Plaintiffs, 
+DECISION AND ORDER 
+- against - 
+GARBAN-INTERCAPITAL MANAGEMENT 
+SERVICES LIMITED and GARBAN INTERCAPITAL : 
+SERVICES LLC, 
+HON. MARTIN SHULMAN, J.S.C.: 
+Procedural Historv of the Litiaation 
+At the inception of this litigation, Julian Swain (“Swain” ), GFlNet Inc. and GFI 
+Securities, L.L.C. (collectively “GFI” or “plaintiffs”) had initially moved by order to show 
+cause (“OSC”) for preliminary injunctive relief (CPLR §7502[c]) in aid of arbitration at 
+the National Association of Securities Dealers (“NASD”) with Garban Corporates, 
+L.L.C. (“Garban-US”) to maintain the status quo otherwise plaintiffs claimed any 
+potential arbitration award in its favor would be rendered ineffectual. In a companion 
+declaratory judgment action filed concomitantly with the Article 75 proceeding, plaintiffs 
+had also moved by OSC seeking preliminary injunctive relief (CPLR $6301) against a 
+United Kingdom corporation, Garban-Intercapital Management Services. Ltd. (“Garban- 
+UK) and Garban-Intercapital Services, L.L.C. (collectively ”Garban”, or ”defendants”), [* 1]
+non-NASD members, to enjoin Garban and any of its group companies from interfering 
+with Swain’s employment at GFI and/or otherwise enforcing certain restrictive 
+covenants contained in a terminated employment contract entered into between Swain 
+and Garban-UK. In a Decision and Order issued on February 8, 2001,’ this Court 
+vacated temporary restraining orders issued, ex parte, denied plaintiffs’ applications for 
+a preliminary injunction in this action (CPLR §6301), denied CPLR §7502(c) injunctive 
+relief in a related Article 75 proceeding under Index No.: 01/102097 and dismissed that 
+proceeding. 
+In the earlier Decision and Order, this Court noted the following: 
+... Moreover, in this context, there remains a real question as 
+to whether New York is the proper forum to resolve this 
+Contract dispute. The application of the doctrine of forum 
+non conveniens: 
+... should turn on considerations of justice, fairness, 
+and convenience and not solely on the residence of 
+one of the parties. Although such residence is, of 
+course, an important factor to be considered, forum 
+non conveniens relief should be granted when it plainly 
+appears that New York is the inconvenient forum and 
+that another is available which will best serve the ends 
+of justice and the convenience of the parties. The 
+great advantage of the doctrine- its flexibility based on 
+the facts and circumstances of a particular case- is 
+severely , if not undercut when our courts are 
+prevented from applying it solely because one of the 
+parties is a New York resident or corporation. 
+Silver v. Great American Insurance ComDany, 29 N.Y.2d 
+356, 361, 328 N.Y.S.2d 398 (1972). 
+As previously discussed, we are confronted with a UK 
+’ The parties’ respective views of the facts and controlling principles of law were fully 
+discussed in this Court’s earlier Decision and Order and will not be repeated. 
+-2- [* 2]
+contract between UK citizens governed by UK law. GFI 
+and ... [Garban-US], New York corporations, are not parties 
+to that Contract. But for Swain’s new-found residence and 
+employment in New York, none of the real parties in interest 
+have a substantial nexus to New York. While the 
+defendants have not cross-moved for this relief, one does 
+not have to be clairvoyant to anticipate that a request for 
+such relief will eventually be sought, particularly, when this 
+doctrine was indirectly invoked in .. . [defendants’ counsel’s] 
+affirmation in opposition to the plaintiffs’ ... request for 
+preliminary injunctions and in support of defendants’. . . 
+cross-motion for interim injunctive relief to enforce the 
+restrictive covenants pending a resolution in the UK court. 
+(Bracketed matter added). 
+Current Round of Motion Practice 
+By notice of motion dated February 15, 2001, Garban, inter alia, moved to 
+dismiss the complaint grounded on the doctrine of forum non conveniens or, 
+alternatively, stay the action pending the conclusion of the lawsuit in England. (GFI 
+apparently insisted that Garban interpose an answer, proceed with discovery and 
+otherwise actively defend the instant declaratory judgment action.) Plaintiffs oppose 
+the motion and cross-move to amend their complaint. Both the motion and cross- 
+* The complaint in the underlying declaratory judgment action recites six causes of 
+action seeking: (1) a declaration that certain post-employment restrictive covenants contained 
+in a negotiated letter agreement dated October 28, 1999 supplementing and superceding 
+certain terms and conditions of employment recited in an executed employment contract 
+(collectively, ”the Agreement”) between Swain and Garban-UK are unreasonably broad, prevent 
+Swain from earning a living and are unenforceable as a matter of law and public policy; (2) a 
+declaration that Swain has not breached the Agreement; (3) a declaration that GFI or any of its 
+affiliates has not tortiously interfered with the Agreement, unfairly competed with Garban-UK or 
+any of its affiliates by hiring Swain or violated Garban’s rights, vis a vis, Swain; (4) monetary 
+damages because Garban, with knowledge of Swain’s employment and contractual relationship 
+with GFI, has tortiously interfered, and continues to interfere, with Swain’s employment and 
+contractual relationship with GFI by threatening to bring injunction proceedings against Swain 
+[in England] relying on the Agreement’s unenforceable, post-employment termination 
+restrictions and had tortiously interfered, and continues to interfere, with Swain‘s employment 
+and contractual and other relations with GFI “...by means that are unfair, otherwise improper, 
+-3- [* 3]
+motion are consolidated herein for disposition. 
+The UK Litigation and Plaintiffs’ Interim Actions 
+After the issuance of this Court’s Decision and Order, the UK litigation ensued 
+on February 9, 2001. Garban-UK, inter alia, sought injunctions to enforce the restrictive 
+covenants contained in the Agreement, damages for Swain’s breach of the agreement, 
+i.e., Swain’s failure to complete his term of employment through and including 
+December 31 , 2001, Swain’s repayment of a sign-on bonus of f250,000 (roughly 
+$400,000 U.S.) pursuant to Clause 3.7 of the Agreement, interest and other relief. 
+Garban-UK also applied for temporary restraining orders/preliminary injunctions 
+pending a “speedy (but full) trial.” As more fully set forth in the affidavit of John Hugh 
+Robert Manners, Esq., (Garban’s UK’s counsel, in support of Garban’s motion to 
+dismiss the case at bar) Swain agreed to certain undertakings, viz., preliminary 
+injunctive relief, and it was ordered that the UK trial be bifurcated. The first bench 
+trial 
+in the UK High Court of Justice- Queen’s Bench Division. was scheduled for March 5, 2001 , before the Honorable Mr. Justice McCombe 
+In the interim, plaintiffs applied to the NASD for the same preliminary injunctive 
+relief in aid of arbitration that this Court denied in its February 8th Decision and Order, 
+without legal justification and with malice.”; (5) monetary damages because Garban has 
+breached, and continues to breach, its financial obligations to Swain as set forth in the 
+Agreement; and (6) monetary damages because Garban has engaged in unfair competition by 
+threatening frivolous litigation and interfering with Swain’s employment and contractual 
+relationship with GFI based upon the Agreement’s unenforceable, post-employment 
+termination restrictions. 
+As noted in fin 8-10 of the Manners Affidavit, the first trial was to solely consider issues 
+of liability and whether permanent injunctions should issue to enforce the restrictive covenants 
+of the Agreement. The second trial would assess monetary damages derived from the court’s 
+conclusions rendered after the first trial. 
+-4- [* 4]
+including a stay of the UK trial. Defendants then moved by OSC to stay the NASD 
+from issuing any orders and/or proceeding with the arbitration between plaintiffs and 
+Garban-US. Plaintiff cross-moved for sanctions and the OSC and cross motion were 
+referred to the Hon. Charles Ramos for disposition. After hearing oral argument and 
+considering the respective papers of the parties, Justice Ramos issued a bench 
+decision granting defendants motion for a stay. The decretal paragraphs of Justice 
+Ramos' signed order entered on March 28, 2001, (Exhibit E to Hall Aff. in support of 
+motion to dismiss) recited the following: 
+... it is 
+ORDERED, that the motion of the defendantslRespondents 
+[Garban] is hereby granted and the cross-motion of 
+Plaintiffs/Petitioners [Swain and GFI] is hereby denied; and it 
+is further 
+ORDERED, that Plaintiffs/Petitioners and any person or 
+entity representing or acting in concert with them are stayed 
+from pursuing further the NASD Arbitration, including their 
+motion for preliminary injunction in aid of arbitration, pending 
+the resolution of the London Action; and it is further 
+ORDERED, that Plaintiffs/Petitioners, and any person or 
+entity representing or acting in concert with them, may not 
+seek to stay the London Action in any court, arbitration or 
+other forum, except the High Court of Justice, Queens 
+Bench Division, United Kingdom; and it is further 
+ORDERED, that this Order shall be binding on 
+PlaintiffslPetitioners and any person or entity representing or 
+acting in concert with them. 
+It is unnecessary to delineate the respective positions of the parties, summarize 
+the substantive contents of the voluminous documentation filed with the UK High Court 
+of Justice or narrate the colloquy between respective UK counsel and said Court during 
+varied court sessions prior to the March !jth trial date. 
+-5- [* 5]
+Suffice it to say, on March 2, 2001, UK counsel, on behalf of Swain, “...formally 
+conceded all issues of fact and law [as to liability and the granting of injunctive relief to 
+enforce the restrictive covenants of the Agreement] and withdrew his defen[s]e in the 
+First Trial.” (bracketed matter added) (see, Manners Aff. at 717 and portions of the 
+transcript of the March 2”d court session before the Honorable Mr. Justice McCombe of 
+the UK High Court of Justice annexed as Exhibit 1 thereto). Nonetheless, Swain was 
+afforded an opportunity to identify any issue of fact(s) not embodied in his concession 
+of total liability to Garban-UK for breaching the Agreement and to file such application 
+by March 19, 2001. According to Garban’s UK counsel: 
+... the Defendant [Swain] did not avail himself of this “liberty 
+to apply’’ by the deadline of 19 March 2001 or at all. 
+Consequently the concession of all the issues of fact and 
+law was and remains total and without exceptions 
+whatsoever. Following the concession, there is no factual 
+basis outstanding on which Swain can assert any 
+counterclaim against any of the Claimants [Garban] . The 
+time limit for an appeal has now expired. (Bracketed matter 
+added). 
+Manners Aff. in support of motion to dismiss at 719. 
+In the same UK action, the parties then undertook various procedural actions to 
+ready themselves for the second trial which will solely dispose of the issues of fact and 
+law as to monetary damages. 
+The Proposed Amended Complaint 
+The proposed amended complaint pleads four (4) causes of action: (1) Garban 
+has tortiously interfered with certain business relationships between GFI and Swain and 
+its customers; (2) Garban[-UK] has breached its financial obligations to Swain under the 
+-6- [* 6]
+Agreement4 ; (3) motivated by malice, Garban has engaged in unfair competition and 
+committed unlawful acts to harm GFI and its business relationships; and (4) possessing 
+knowledge of certain brokers’ employment and contractual relationships with GFI, 
+Garban is attempting to interfere with those relationships with GFI. 
+ResPective Arquments 
+As noted earlier, Garban followed through on gratis dictum set out in this 
+Court’s February 8‘h Decision and Order by moving to dismiss plaintiffs’ initial claims on 
+forum non conveniens grounds. As a result of Swain’s concession on the “eve” of the 
+bifurcated trial in the UK action, Defendants obtained a judgment of total liability under 
+the Agreement and injunctive relief to enforce its post-termination restrictive covenants. 
+Thus, Garban now invokes the doctrines of resjudicata and collateral estoppel to bar 
+plaintiffs from continuing to prosecute their original claims and from proposing GFl’s 
+new claims. Garban acknowledges that GFI is not a party to the UK action. 
+Nonetheless, defendants argue that there exists an identity of interest between GFI and 
+Swain in the ongoing UK action and in the case at bar so that GFl’s proposed claims 
+are not independent of the Swain’s contractual dispute with Garban-UK but rather are 
+derivative of that dispute. Thus, Garban contends that these doctrines are equally 
+applicable to GFI which would render the prosecution of the original complaint and 
+proposed amended claims (particularly, the proposed Second Cause of Action) futile. 
+Unlike the six (6) causes of action in the complaint, the proposed First, Third and 
+Fourth Causes of Action obviously made no reference to the Agreement and/or post- 
+termination restrictive covenants therein. The proposed Second Cause of Action repleads the 
+Fifth Cause of Action in the original complaint and presumably will be considered during the 
+damages phase of the UK action. 
+-7- [* 7]
+As to the latter, defendants also claim that the proposed First, Third and Fourth Causes 
+of action, as pleaded, are fatally defective as a matter of law (e.g., insufficiently 
+pleaded allegations of fact to establish the elements of: (a) a claim for tortious 
+interference with GFl’s current and future “business relationships” and/or contractual 
+relationships; (b) a claim for tortious interference with the employment of brokers at 
+GFI; and (c) a claim for unfair competition). (See, arguments and supporting case law in 
+defendants’ reply memorandum of law at pp. 19-26.) 
+Plaintiffs contrarily reject defendants’ contention that New York is an 
+inconvenient forum and that they are barred from prosecuting this declaratory judgment 
+action because the doctrine of resjudicata is inapplicable to GFI ( interalia, GFI is not a 
+party in the UK action). Plaintiffs further argue that the court must liberally construe the 
+proposed pleadings in a favorable light and deem the allegations contained therein to 
+be true 5, and further argue that the proposed amended complaint contains adequately 
+pleaded allegations to foreclose dismissal under CPLR s3211 (see, plaintiffs’ reply 
+memorandum of law at pp. 7-17). Plaintiffs pointedly claim Swain’s Fifth Cause of 
+Action and the proposed Second Cause of Action seek money damages for Garban- 
+UK’s breaches of the Agreement (brokerage commissions owed, etc.) and are wholly 
+unrelated to Swain’s concession of liability and acceptance of injunctive relief prior to 
+the “First Trial” and, if anything, could conceivably be considered during the “Second 
+Trial” on damages. For this reason, plaintiffs argue, the doctrine of resjudicata has no 
+Interestingly, plaintiffs implicitly concede that the proposed claims contain allegations 
+of tortious acts that may have occurred; yet, possess no information necessary to support 
+these proposed claims. Plaintiffs are willing to await discovery ‘...to obtain more particulars of 
+the tortious acts.” (Plaintiffs’ reply memorandum of law at pp. 5-6). 
+-8- [* 8]
+effect on these claims. 
+Discussion 
+With the exception of Fifth Cause of Action in the original complaint, now 
+repleaded as the Second Cause of Action in the proposed amended complaint, 
+plaintiffs have not included the original complaint’s other five (5) causes of actions in 
+the proposed pleading. It is evident that such claims are deemed withdrawn and 
+abandoned as a result of Swain’s concession of liability under the Agreement, including 
+Garban-UK’s entitlement to injunctive relief to enforce the post-termination restrictive 
+covenants. Swain’s concession virtually gutted five (5) out of the six (6) causes of 
+action set forth in the complaint (see, Footnote 1 , supra). Swain’s surviving Fifth Cause 
+of Action for alleged monetary damages due him under the Agreement @e., 
+commissions, etc.) will most likely be considered during the second trial in the UK 
+action as possible set-offs against damages purportedly due Garban-UK . Apparently 
+recognizing that for all intents and purposes, plaintiffs’ complaint underlying this 
+declaratory judgment action has gasped its last breath, plaintiffs attempted to 
+resuscitate the instant action by filing their cross-motion on April 3, 2001 (approximately 
+one (1) month after Swain’s total concession of liability under the Agreement) to amend 
+the complaint now claiming it is not about Swain, but rather about GFI. Put differently, 
+the proposed amended complaint shifts its focus from Swain to GFI as the wronged 
+party, whereas the original complaint portrayed Swain as the dominant victim. 
+Leave to Amend 
+Leave to amend pleadings should be freely given in the absence of prejudice to 
+-9- [* 9]
+the opposing party. CPLR $3025 (b); Mathiesen v. Mead, 168 A.D.2d 736 ( 3rd Dept., 
+1990). A court must examine the underlying merit of a proposed amended pleading so 
+as to avoid wasting judicial resources on unmeritorious actions. Id. at 757. See also, 
+Seider v. Skala, 168 A.D.2d 355 (Ist Dept., 1990) citing to East Asiatic ComDanv v. 
+Corash, 34 A.D.2d 432 (Ist Dept., 1970). In this context, this Court is guided by the 
+following principles: 
+On a motion to dismiss [a complaint], the court is not called 
+upon to determine the truth of the allegations (see, 279 
+Broadway Cop. v. Alexander‘s lnc., 46 NY2d 506,509). 
+Rather the complaint should be liberally construed in favor of 
+the plaintiff (see, Foley v. D’Agostino, 21 AD2d 60, 65-66) 
+solely to determine whether the pleading states a cause of 
+action cognizable at law (see, Guggenheimer v. Ginzburg, 
+43 NY2d 268,275). 
+Eastern Consolidated ProDerties, Inc., v. Lucas, et al., - A.D.2dP, N.Y.L.J., July 30, 
+2001, p. 22, c. 3 (Ist Dept.). 
+The proposed First, Third and Fourth Causes of Action are barren of any factual 
+content to support the claims pleaded. To illustrate, the First Cause of Action 
+conclusorily pleads a claim of Garban’s tortious interference with current and future 
+“business relationships’’ between GFI, Swain and its customers. Support for this claim 
+apparently rests on this pleaded allegation, “Prior to Swain’s hiring by GFI, Garban 
+made repeated written and verbal threats to prevent Swain from earning a living and to 
+“declare war” on GFI by imposing its overwhelming financial Girth of GFI, a small 
+company in comparison.” (Proposed Amended Complaint at 119; Id., at 722) (see, 
+plaintiffs’ reply memorandum of law at p. 7). Without any additional facts, these 
+allegations are conclusorily restated in GFl’s counsel’s affirmation in support of the 
+-1 0- [* 10]
+cross-motion for leave to amend (Levin Aff. at 18). As stated earlier, the pleaded 
+allegation contained in 71 8 of the Proposed Amended Complaint contain no facts. 
+Moreover, the conclusory allegations pleaded in 71 20 through 24 of the Proposed 
+Amended Complaint are on “information and belief” and lack legally sufficient factual 
+content. Conceivably, plaintiffs could have ventured a “save” by proffering an affidavit 
+by an individual with personal knowledge of the facts to amplify the pleadings (cf., 
+Eastern Consolidated, ProPerties, Inc., supra). “...When seeking leave to amend a 
+pleading, it is incumbent upon a movant to make ‘some evidentiary showing that the 
+claim can be supported’ ... ” Mathiesen, supra, at 737. Not single affidavit accompanies 
+the plaintiffs’ supporting papers. “ ‘...[P]laintiffs’ mere contentions ... [of various tortious 
+and malicious acts to harm GFI and Swain] ... offered with no factual basis to support the 
+allegations ...[ are palpably] insufficient to state ... cause[s] of action for tortious 
+interference with contractual relations’. . .[, unfair competition and interference with 
+brokers’ employment relations with GFI]”. (Bracketed matter added). Wootton USA. et 
+al., v. LeBoeuf, Lamb, Greene. & MacRae et at., 243 A.D.2d 168,183 (Ist Dept., 1998). 
+Except for the proposed Second Cause of Action which is identical to the 
+pleaded allegations contained in the existing Fifth Cause of Action of the original 
+complaint, the proposed amended complaint is devoid of merit. Accordingly, the 
+plaintiffs’ cross-motion for leave to amend the complaint is denied. 
+Res Judicata and Collateral Estoppel - 
+To round out 
+plaintiffs sufficiently this discussion, assume, arguendo, that this Court determined that 
+pleaded their claims in the proposed amended complaint and there 
+-1 1- [* 11]
+was joinder of issue, nevertheless, this Court would still have barred the plaintiffs from 
+prosecuting the claims therein grounded on the doctrine of res judicata. To understand 
+this discussion, a brief review of the case law addressing the doctrine of resjudicata is 
+helpful. 
+“Under New York’s transactional-analysis approach to res judicata, ‘once a claim 
+is brought to a final conclusion, all other claims arising out of the same transaction or 
+series of transactions are barred even if based upon different theories or if seeking a 
+different remedy’ (O’Brien v. City of Syracuse, 54 N.Y.2d 353,357, 445 N.Y.S.2d 687, 
+429 N.E.2d 1158; Ouziel v. Coyle, 165 A.D.2d 869, 869, 560 N.Y.S.2d 338) ...” Joem 
+International, Ltd. v. SwedwaII. Inc., 215 A.D.2d 530 (2d Dept., 1995). “ ‘ It is 
+fundamental that a judgment in a prior action is binding not only on parties to that 
+action, but on those in privity with them’ ... i.e., those whose with interests that were 
+represented in the prior proceeding ... or who controlled the conduct of the prior action to 
+further their own interests ...” Castellano. et al.. v. Citv of New York. et al., 251 A.D.2d 
+194 (Ist Dept., 1998); Prospect Owners Corp. v. Tudor Realtv Services Con>.. et al., 260 
+A.D.2d 299 (1’‘ Dept., 1999); see also, All Terrain Properties. Inc., v. Hoy, 265 A.D.2d 
+87, 95-96 (Ist Dept., 2000). 
+By not including the original complaint’s First Through Fourth and Sixth Causes 
+of Action in the proposed amended complaint, plaintiffs sought to plead independent 
+claims against Garban. But, the First, Third and Fourth Causes of Action in the 
+proposed amended complaint are not independent actions but are purported, collateral 
+claims clearly derivative of the same series of transactions underlying the Agreement 
+dispute between Swain and Garban-UK in the UK action. Moreover, GFI, as Swain’s 
+-1 2- [* 12]
+employer and an admitted underwriter of Swain’s litigation costs, was, and is, clearly in 
+privity with Swain and had, and continues to have, a financial interest in the outcome of 
+the UK action. Thus, all of GFl’s proposed claims would have also been barred by res 
+Concerning the doctrine of collateral estoppel, the Court of Appeals in Schwartz 
+v. Public Administrator of Bronx County, 24 N.Y.2d 65, 71 (1969), succinctly abridged 
+the two prerequisites of collateral estoppel (Le., issue preclusion): 
+New York law has now reached the point where there are but 
+two necessary requirements for the- invocation of collateral 
+estoppel. There must be an identity of issue which has necessarily 
+been decided in the prior action and is decisive of the present action, 
+and, second, there must been have been a full and fair opportunity 
+to contest the decision now said to be controlling. 
+It differs from resjudicata (Le., claim preclusion) in that it does not affect an issue which 
+might have been, but, in fact, had not been, resolved in the first action. Rather it affects 
+an issue actually decided in the earlier action. Nor is issue preclusion limited to 
+successive lawsuits involving the same cause of action. “...It has [also] been observed 
+that since the consequences of a determination that a party is collaterally estopped 
+from litigating a particular issue are great, strict requirements for application of the 
+doctrine must be satisfied to insure that a party not be precluded from obtaining one full 
+hearing on his or her claim ... The question as to whether a party had a full and fair 
+As noted, supra, In the UK action, Garban-UK has obtained a judgment against Swain 
+as to liability under the Agreement and injunctive relief. Parenthetically, it seems to this Court 
+that Swain, through its employer, GFI (seemingly a stranger to the prior adjudication), 
+attempted to collaterally attack this judgment by pleading “independent” claims that Garban did, 
+and continues to, tortiously interfere with GFl’s business, employee andlor customer 
+relationships and such claims could have been made in the UK action during the first trial. 
+-1 3- [* 13]
+opportunity to litigate a prior determination involves a practical inquiry into the realities 
+of litigation ... Collateral estoppel effect will only be given to matters ‘actually litigated and 
+determined’ in a prior action. Preclusive effect will not be given if the particular issue ... 
+was not ‘actually litigated squarely addressed and specifically decided.. .” (Emphasis 
+added). Sinaleton Management. Inc. v. Compere, 243 A.D.2d 213,217 (Is* Dept., 1998). 
+See also, Color bv Peruament, Inc. v. O’Henrv’s Film Works, Inc.. et al., 278 A.D.2d 92, 
+93-94 (1 st Dept., 2000). 
+A careful analysis of the record of the UK action (Exhibit 1 to Manners Affidavit in 
+support of motion to dismiss) reveals that Swain’s claim for monetary damages as set 
+forth in his Fifth Cause of Action arising under the Agreement has not yet been litigated 
+on the merits. As a result of the bifurcation, issues of fact and law referable to Garban- 
+UK’s claims for damages and Swain’s claimed entitlement to set-offs, etc., must await 
+the outcome of the second trial. Thus, defendants’ reliance on the doctrine of collateral 
+estoppel and, and for that matter, res judicata, to bar the prosecution of this claim is 
+misplaced. 
+Forum Non Conveniens 
+Notwithstanding the foregoing analysis, this Court grants Garban’s motion to 
+dismiss Swain’s surviving claim and the entire action on the ground of forum non 
+conveniens. As this Court observed in its February 8th Decision and Order, “...the 
+defendant[ ]...[is a] citizen[ ] and resident[ ] of a foreign jurisdiction, most of the 
+business dealings in connection with the subject agreement were conducted in London, 
+the agreement itself was executed in London, the parties were to perform in London, 
+-14- [* 14]
+the bulk of the witnesses and the evidence that defendant[ ] would need to defend the 
+action are located in London, the action is governed by English Law, and England is 
+[and has been] an available alternative forum for the action ...” (Bracketed matter 
+added). Blueve Navigation v. Den Norske Bank, 239 A.D.2d 192 (Ist Dept., 1997); 
+Brooke Grow Ltd.. et al., v. JCH Svndicate 488 et al., 214 A.D.2d 486 (Ist Dept., 1995). 
+This constitutes the Decision and Order of this Court. Courtesy copies of same 
+have been mailed to counsel for the parties. 
+DATED: New York, New York 
+August 14,2001 
+HON. MARTIN SHULMAN. J.S.C. 
+-1 5- [* 15]

@@ -1,0 +1,122 @@
+Macalloy Corp. v Metallurg, Inc.
+1998 NY Slip Op 30000(U)
+December 23, 1998
+Supreme Court, New York County
+Docket Number: Index No. 605123-98
+Judge: Carol E. Huff
+Cases posted with a "30000" identifier, i.e., 2013 NY Slip
+Op 30001 (U), are republished from various New York
+State and local government sources, including the New
+York State Unified Court System's eCourts Service.
+This opinion is uncorrected and not selected for official
+publication.SUPREME COURT OF TIIE STATE OF NEW YORK 
+COUNTY OF NEW YORK: IAS PART 32 -------------------X 
+MACALLOY CORP .. 
+Plaintiff, 
+-against-
+METALLURG, INC. 
+Defendant. 
+CAROL HUFF, J.: Index No. 
+605123-98 
+PlaintiffMacalloy Corp. ("Macalloy") moves for an order pursuant to CPLR 6301 
+enjoining defendant Metallurg, Inc. ("Metallurg'') from drawing against an Irrevocable Standby 
+Letter of Credit ("Letter of Credit"), or entering judgment pursuant to plaintiff's affidavit of 
+confession of judgment. or enforcing remedies under the security agreement between plaintiff and 
+defendant. The order to show cause issued by this court on October 23, 1998 contained a 
+temporary restraining order enjoining all of the above acts pending the hearing of this motion. 
+Plaintiff is engaged in the production and sale of ferro-alloys. On August 15, 1996, 
+plaintiff and defendant entered into an agreement (" 1996 Agreement") under which plaintiff was 
+to purchase certain chrome ore from defendant over a five year period. In February 1998, 
+defendant served a demand for arbitration alleging that plaintiff had breached the agreement. In 
+May 1998, this Court issued an order denying Macalloy's petition for a stay of arbitration. 
+Before the arbitration, the parties entered into a May 1998 Settlement Agreement ("Settlement 
+Agreement") under which a new sales agreement (" 1998 Sales Agreement") was to replace the 
+1 
+[* 1]
+1996 Agreement. It called for payment of past due amounts and future purchases of chrome ore. 
+Under the Settlement Agreement, plaintiff posted a $150,000 Letter of Credit, and gave defendant 
+an affidavit of confession of judgment, permitting defendant to enter a judgment in the amount of 
+$1,606,000 in the event that plaintiff breached the terms of the Settlement Agreement or 1998 
+Sales Agreement, and gave defendant a security interest in its inventory. 
+The 1998 Sales Agreement contained a force majeure clause as follows: 
+7.01 Force Majeure. Neither party hereto shall be liable for any failure to comply with 
+any of the terms or provisions ofthis Agreement to the extent any such failure is caused 
+directly or indirectly by Acts of God, fire, flood, strike, union or other labor problems, 
+shortages, war ... plant shutdown ... changes in applicable law ... government restrictions 
+imposed subsequent to the date [apparently meaning the date of the contract] without 
+fault on the part of either of them. Upon the occurrence of any of the type [ of events] 
+referred to in this section, the party affected thereby shall give prompt written notice 
+thereof to the other party hereto, together with a description of such event and the 
+duration for which such party expects its ability to comply with the provisions of this 
+agreement to be affected thereby. The party affected shall thereafter devote its 
+reasonable efforts to remedy, to the extent possible, the conditions giving rise to such 
+event and to resume performance of its obligations as promptly as possible ... 
+At the time that plaintiff was negotiating the Settlement Agreement, it knew that it was the 
+subject of enforcement proceedings by both the United States Environmental Protection Agency 
+("EPA") and the South Carolina Department of Health and Environmental Control ("DHEC"). 
+On April 20, 1998, with the concurrence of the South Carolina agency, the EPA issued a Cease 
+and Desist Order which found that Macalloy' s practice of managing industrial dust was 
+"unacceptable" and which had the effect of requiring plaintiff to treat certain effluent created by 
+the smelting process as "hazardous waste." 
+Plaintiff contends that it could not reasonably comply with the Cease and Desist Order and 
+that after efforts to obtain a modification of the Order proved to be unsuccessful, it decided to 
+2 
+[* 2]
+shut down its ferrochrome processing plant. On September 23, I 998, plaintiff advised defendant 
+that it was invoking the force majeure clause and intended to cancel the purchases called for by 
+1998 Sales Agreement. In response, defendant contended that the force majeure clause did not 
+apply and that plaintiff was now in default under the agreement. 
+The doctrines of impossibility and force majeure are closely related. Although the defense 
+of impossibility exists, it is construed narrowly. Impossibility excuses a party's performance only 
+when the destruction of the subject matter of the contract or the means of performance make 
+performance objectively impossible (Kel-Kim Coi:p. v. Central Markets, Inc., 70 NY2d 900). 
+Moreover, the impossibility must be produced by an unanticipated event that could not have been 
+foreseen or guarded against in the contract (Kel-Kim Cui:p. v. Central Markets, Inc., supra, 407 
+East 61'' Street Garage v. Savoy Fifth Avenue Corp., 23 NY2d 275)[where a hotel agreed to use 
+best efforts to give a garage the opportunity to store the vehicles of hotel guests in exchange for 
+10 percent of the garage revenues obtained from guests, the fact that the hotel owned decided to 
+shut down by reason of unprofitable operations did not render the contract void by reason of 
+impossibility]). A force majeure clause, excuses performance due to circumstances beyond the 
+control of the parties (Kel-Kim, supra). Normally, only if the force rnajeure clause specifically 
+includes the event that actually prevents that party's performance will that party be excused ~ 
+Kim, supra; United Equities Co. v. First National City Bfillk, 41 NY2d 1032). The fact that a 
+contract becomes more difficult and expensive to perform because of a law enacted after its 
+execution does not excuse performance (Coastal Power v. New York State Public Service 
+Comm., 153 AD2d 235). 
+Plaintiff contends that the force majeure clause applies in the event that they decide to shut 
+3 
+[* 3]
+down the plant by reason of the action of the regulatory agencies. Plaintiff admittedly knew of 
+the EPA action before it executed the Settlement Agreement and 1998 Sales Agreement, and 
+states that at the time, it expected to be able to convince the EPA to vacate or greatly modify its 
+order, and that it shut down the plant when discussions with EPA did not result in any relief 
+There are several reasons why force majeure does not apply. Both the law relating to 
+force majeure clauses and the contract itself provide that performance is excused only upon the 
+occurrence ofan event which is beyond the control of the parties, i.e. not the fault of either of the 
+parties. The action of the EPA was taken by reason of violation of environmental regulations, so 
+that plaintiff cannot reasonably claim to be free from fault. Moreover, the doctrine of force 
+majeure is designed to protect a party from the effects of an action which is beyond the 
+contemplation of the parties. Since plaintiff knew of the EPA action before it entered into the 
+relevant agreements, it was certainly forseeable at the time that plaintiff would either have to 
+modify its plant operations or shut down the plant. Shutting down the plant appears to have been 
+a voluntary act and was compelled by governmental action. The fact that it would allegedly be 
+more expensive to operate the plant under the terms ofEP A's order than without environmental 
+regulation does not excuse plaintiff from performance under the Settlement Agreement and 1998 
+Sales Agreement. . 
+In light of the above, plaintiff has not shown a likelihood of ultimate success in this action. 
+Thus, injunctive relief is not appropriate. Under the agreement, plaintiff would be obligated to 
+take delivery of 58,300 short dry tons of chrome by December 31, 1998 and to pay for 30,000 
+short dry tons after delivery. Plaintiff maintains that since the time for performance is not yet past, 
+defendant cannot enforce its rights under the letter of credit, confession of judgment or security 
+4 
+[* 4]
+agreement. On the contrary, once plaintiff dearly and unequivocally repudiated the agreement, 
+defendant had the right to treat plaintiff's conduct as an anticipatory breach of contract (see 
+Uniform Commercial Code § 2-609). 
+Accordingly, the motion is denied. Defendant is directed to serve a copy of this order 
+with notice of entry upon plaintiff within 10 days. The temporary restraining order issued by this 
+court on October 23, 1998 is extended until January 15, 1999 and is thereafter vacated. 
+This constitutes the decision and order of the Court. 
+J.S.e.· 
+5 
+[* 5]

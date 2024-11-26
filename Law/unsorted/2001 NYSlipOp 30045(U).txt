@@ -1,0 +1,347 @@
+Levin v PriceWaterhouseCoopers, LLC
+2001 NY Slip Op 30045(U)
+November 21, 2001
+Supreme Court, New York County
+Docket Number: 0110886/2000
+Judge: Helen E. Freedman
+Republished from New York State Unified Court
+System's E-Courts Service.
+Search E-Courts (http://www.nycourts.gov/ecourts) for
+any additional information on this case.
+This opinion is uncorrected and not selected for official
+publication.SUPREME COURT OF THE STATE OF NEW YORK - NEW YORK COUNTY 
+0 I- n 
+w 
+2 Justice PART 39 
+/ 
+INDEX NO. 
+MOTION DATE 
+-v- 
+l3-U) MOTION SEQ. NO. 
+MOTION CAL. NO. 
+The following papers, numbered 1 to were read on this motion to/for 
+I PAPERS NUMBERED 
+Notice of Motion/ Order to Show Cause - Affidavits - Exhibits ... I i I 
+Answering Affidavits - Exhibits I 
+I 
+a 
+Replying Affidavits I 
+Cross -Motion: 0 Yes 
+\p4 NO 
+.. - ; 
+- . : 
+J-:.? ip, 
+cl;.:orZ.cnce 
+1 
+Ti. 
+1 
+ L. 
+- 
+- 
+- - Upon the foregoing papers, it is ordered that this motion 
+,. . 
+.~ .. - .. 
+. 
+- 
+ ~ 
+- .. . . . . . . .. . . 
+- . 
+- . . . . . .. \ 
+.. , , .'.. '..., ... . __. 
+-..,---.;--I-._. 
+.. .. . 
+J. S. C. 
+ -. 
+Check one: 0 FINAL DISPOSITION NON -FINAL DISPOSITION [* 1 ]
+\ SUPREME COURT OF THE STATE OF NEW YORK 
+COUNTY OF NEW YORK: IAS PART 39 
+NEIL D. LEVIN, Superintendent of Insurance 
+of the State of New York, as Liquidator of 
+HOME MUTUAL INSURANCE 
+ COMPANY 
+OF BINGHAMTON, NY and NEW YORK 
+MERCHANT BAKERS INSURANCE COMPANY, ......................................................................... X 
+Plaintiff, 
+- against - 
+PRICEWATERHOUSECOOPERS, LLP, 
+E/d/b/a/ Coopers & Lybrand, et al., Index No.: 110886/00 
+DECISION 
+i HELEN FREEDMAN, J. 
+The Superintendent of Insurance, as liquidator (the 
+“Superintendent”), brings this 
+action on behalf of two now-defunct insurance companies, Home Mutual Insurance 
+Company of Binghamton (“Home 
+ Mutual”) and Merchant Bakers Insurance Company 
+(“Merchant Bakers”), their policyholders, and other creditors against 
+PriceWaterhouseCoopers, LLP 
+ (“Coopers”), the accounting Arm that audited some of the 
+Companies’ 1993 -1 997 financial statements, and former company officers and directors, 
+alleging, inter alia, that Coopers failed to properly audit the companies, which ultimately 
+become insolvent and seeking damages of at least $100,000,000. The complaint alleges 
+sixteen causes of action, seven of which are asserted against Coopers: Fraud and Deceit; 
+Negligent Misrepresentation; Professional 
+ MalpracticelNegligence; Breach of Fiduciary 
+Duty; Aiding and Abetting Officers and Directors’ Wrongdoing; Breach of Contract; and 
+Insurance Law Violations. [* 2 ]
+Coopers now moves to dismiss the complaint against it in lieu of answering pursuant 
+to CPLR 321 l(a) and 3016, on statute of limitations grounds, for failure to state a cause of 
+action, failure to plead fraud with the requisite particularity, and duplicity of claims. 
+Allegations .- . 
+The complaint alleges that Home Mutual and Merchant Bakers were property 
+casualty insurers specializing in automobile insurance. Throughout the years 1993 to July 
+1997, Coopers’ served as “auditors, actuaries and business advisors” to Home Mutual, 
+Merchant Bakers, and non-party Home State Holdings, Inc.*, the former holding company 
+of Merchant Bakers and former manager of Home Mutual (“Home State”; hereafter Home 
+Mutual, Merchant Bakers and Home State are defined as the 
+“Companies”). Coopers 
+I\ 
+allegedly 
+ “audit[ed] [the Companies’] financial statements and applicable portions of the 
+consolidated financial statements of Home State, and opin[ed] and 
+provid[ed] insurance 
+industry advice as to the internal controls and practices of these entities, including as to loss 
+reserves and reinsurance accounting.” 
+* 
+7 
+Coopers performed the following audit services for the Companies: for Home State, 
+Coopers audited the Company’s consolidated financial statements for the years ended 
+December 3 1 1993 -96, issuing reports that Home State included in its Annual Reports on 
+‘In 1998 Coopers & Lybrand, LLP merged with Price Waterhouse to form 
+PriceWaterhouseCoopers, LLP. 
+’Home State is an insurance holding company which from 1993 -1 997 conducted its 
+business through its insurance subsidiaries, including Home Mutual and Merchant Bakers. 
+In 1998, Home State filed a Voluntary Petition for Reorganization pursuant to Chapter 1 1 
+of the Bankruptcy Code, and has continued in possession of its business and property. 
+2 [* 3 ]
+, Form 10-K. Coopers issued its’last audit report to Home State on March 3 1 , 1997. Each 
+audit was conducted and each report issued pursuant to aperies of Letters of Arrangement 
+between Coopers and Home State. Home State also hired Coopers to audit its statements for 
+1996, but Coopers resigned, for reasons discussed below, before completing the audit or 
+issuing the report. 
+For Home Mutual, Coopers audited the Company’s statutory-basis financial 
+statements for the years ended December 3 1 , 1993-95, pursuant to Letters of Arrangement. 
+The last report was issued on September 6, 1996. 
+For Merchant Bakers, Coopers audited the Company’s statutory -basis financial 
+statements for the year ended December 31, 1995, pursuant to a Letter of Arrangement; 
+Coopers issued its report on March 14, 1996. Merchant Bakers also hired Coopers to audit I, 
+its statements for 1996, but Coopers resigned before completing the audit or issuing the 
+report. 
+In each report that it issued for the Companies, Coopers stated that, in its unqualified 
+opinion, the Companies had fairly presented their financial statements in all material 
+respects, that those statements could be relied upon, and that the statements complied with 0 
+9 
+all reporting requirements. 
+The Superintendent also alleges that Coopers, as actuary, issued actuarial opinions 
+on Home Mutual’s and Merchant Baker’s loss reserves, including its loss and loss adjustment 
+and expense reserves, as of December 3 1 , 1996. 
+The complaint next alleges that Coopers performed other professional services for 
+the Companies. Coopers 
+ “review[ed]” the quarterly statements that Home State filed with 
+3 [* 4 ]
+the Securities and Exchange Commission (“SEC”), but neither audited these quarterly 
+\ statements nor reviewed them before their release. The last such quarterly statement was 
+filed in 1996. Coopers also reviewed Home Mutual’s quarterly statutory filings for the years 
+1993 through 1997, and reviewed Merchant Baker’s filings for the years 1995 through 1997, 
+again without auditing them. 
+Finally, the complaint alleges that Coopers acted as a “consultant” for the Companies: 
+Coopers represented, promised and agreed that it would provide insurance 
+industry advice, expert opinion, and guidance as to specific areas of risk to 
+[the Companies] and audit as to such areas with a heightened degree of care, 
+including as to such areas as internal controls, claims, loss reserves, 
+reinsurance, policy acquisition costs, underwriting, the premium cycle and the 
+overall financial soundness of [the Companies.] 
+Despite Coopers’ audits, it is alleged that the Companies’ 
+ finkcia1 statements 
+contained material misstatements and omissions with respect to their true condition. Among 
+other deficiencies, the Companies understated their loss reserves and misstated their 
+reinsurance accounts by overstating their reinsurance profit -sharing accruals. As a result, 
+the Companies’ statements of earnings and shareholder equity were inflated. In addition, the 
+Companies disguised and concealed that they lacked adequate ihternal management controls 
+causing the Companies to write ever-increasing volumes of new business based upon the 
+false financial information that Coopers had audited. 
+Shortly after Coopers issued its audit opinion for Home State’s 1996 financial 
+statements, the complaint alleges, the truth about the Companies’ finances began to come 
+out. In May 1997, Home State filed a Notification of Late Filing for its financial statements 
+for the quarter ending March 3 1 , 1997 because of “[flactors including review of case reserve 
+4 [* 5 ]
+development and adjustments to balance sheet items.” In June 1997, a Home State filing 
+indicated that, until it had determined why it suffered substantial 
+ opp-ating losses in fhe first 
+quarter of 1997, its 1996 financial statements and Coopers’ related audit report “should not 
+be relied upon.” 
+In July 1997, Coopers withdrew its audit opinions on the ground that the Companies 
+had misstated their financial statements since 1994 and that the Companies lacked sufficient 
+internal controls. Coopers resigned as auditor for the Companies on July 15, 1997. In 
+August 1997, Home Mutual and Merchant Bakers were declared insolvent and placed in 
+rehabilitation. In January 1998, the Home Mutual and Merchant Bakers’ rehabilitation 
+proceedings were converted to liquidation proceedings. 
+The Superintendent alleges that Coopers knew about the internal control lapses and 
+other problems that plagued the Companies as early as 1993, yet Coopers ignored or 
+concealed these problems, ultimately causing their insolvency, and leaving the New York 
+Property/Casualty Insurance Fund, the New York Public Motor Vehicle Liability Security 
+Fund, and the New York insurance -buying public responsible3 for losses estimated at over r 
+t 
+$100,000,000. 
+Discussion - 
+MalDractice/NegliPence 
+The professional 
+ malpracticehegligence claim against Coopers is dismissed as time- 
+barred by the three year statute of limitations set forth in CPLR 214(6). Actions for 
+’These state security funds are financed through assessments on insurance companies 
+doing business in New York which, in turn, pass the costs on to policyholders through their 
+premiums.. 
+5 [* 6 ]
+accountant malpractice generally accrue “on the date the accountant’s work product is 
+received by the client.” Ackerman v. Price Waterhouse, 84 N.Y.2d 535,541 
+ (1\994). Here, 
+Coopers delivered its only audit report for Merchant Bakers by March 14, 1996, its final 
+report for Home Mutual by September 9,1996, and its final report for Home State by March 
+3 1,1997, i.e., more than three years before plaintiff commenced this action on May 12,2000. 
+The Superintendent claims that the statute of limitations was tolled by Coopers’ 
+continuous representation, but that doctrine applies only when the ongoing representation is 
+“continuous” and “related to the particular duty breached.” Nafl. Life Ins. Co. v. Frank B. 
+Hall & Co., 67 N.Y.2d 102 1,1023 (1 986). The continuous representation must be connected 
+with the matter in dispute, and not merely a continuing, general professional relationship. 
+Id. Here, the Superintendent contends that Coopers audited the companies’ statements i, 
+negligently, inasmuch as it overlooked the misstatements in the companies’ financial 
+statements. The Superintendent further alleges that, after Coopers resigned in 1996, it 
+continued to perform 
+ “corrective” auditing work for the Companies as late as May 
+the Superintendent cannot relate any such work to the allegedly defective audits. 0 
+t 1997, but 
+Since the audits form the only basis for the Superintendent’s malpractice claim, there 
+was no continuous representation. Each audit was a discrete service, ending with Coopers’ 
+delivery of an annual audit letter to the Companies. Moreover, the Companies signed 
+separate engagement letters for each fiscal year, pursuant to which Coopers agreed to audit 
+the Companies for that year. Inasmuch as there was no continuous representation, the statute 
+of limitations was not tolled. 
+6 [* 7 ]
+The Superintendent claims that Coopers’ continuously represented the companies “on 
+\ an ongoing basis” by 
+“focus[ing] on the claims, reinsurance accounting, 
+ un+rwriting and 
+internal controls which were identified as key audit areas of particular concern at the 
+companies.” (emphasis supplied) But here the Superintendent concedes that Coopers 
+focused on these matters during its audits, which themselves were discrete services. Thus 
+the malpractice claim must be dismissed as untimely. 
+Fraud, Breach of Contract, Breach of Fiduciarv 
+The Superintendent’s fraud claim is dismissed for failure to state a claim; the fraud, 
+breach of contract, breach of fiduciary duty, and negligent 
+ misrepresentati’on claims are 
+dismissed because they duplicate the malpractice claim. See, Sane Realtv Corporation v. 
+Proskauer Rose, L.L.P., 251 A.D.2d 35 (1” Dept. 1998). “Where, as here, a fraud claim is 
+asserted in connection with charges of professional malpractice, it is sustainable only to the 
+extent that it is premised upon one or more affirmative, intentional 
+ misrepiesentations - that 
+is, something more egregious than mere ‘concealment or faifure to disclose [one’s] own 
+malpractice’ . . . - which have caused additional damages, separate and distinct from those 
+generated by the alleged malpractice.” White of Lake George, Inc. v Bell, 25 1 AD2d 777, 
+778 
+(3‘d Dept. 1998); see also, Meccav. Shang, 258 AD2d 569 
+(2”d Dept. 1999); Sage Realtv 
+v. Proskauer Rose L.L.P., supra. The Superintendent’s fraud cause of action, with respect 
+to which no distinct damages are claimed, alleges that Coopers made material 
+misrepresentations and omissions to induce Merchant Bakers and Home Mutual to keep 
+7 [* 8 ]
+Coopers as their auditor and “to cover up and avoid the repercussions of the falsity of its 
+prior representations and the deficiencies of its prior work.” The Superintendent further 
+ \. 
+alleges that Coopers failed to independently veri@ the Companies’ financial statements, 
+allowed misstatements of loss reserves and reinsurance accounting, and failed to take steps 
+to correct internal management problems; but that is the same misconduct alleged in the 
+malpractice cause of action. In short, notwithstanding the Superintendent’s numerous and 
+detailed allegations, the 
+bud cause of action alleges conduct amounting to negligence, rather 
+than an intent by Coopers to mislead Home Mutual or Merchant Bakers to their detriment. 
+“Negligence in an accountant’s purported departure from professional standards, no matter 
+how well particularized, does not make out 
+fraud[.]” LaSalle National Bank v Ernst and 
+I, 
+Young, 285 A.D.2d 101 (1” Dept. 2001). 
+Under CPLR 2 14(6), a plaintiff must begin an accounting malpractice action within 
+three years of accrual “regardless of whether the underlying theory is based in contract or 
+tort.” See David v. Isaacson, Robustelli, Fox, Fine, Greco & Fogelgaren, P.C., 258 A.D.2d 
+321, 321-22 (1st Dept. 1999) (finding claims for legal malpractice, fraud and breach of 
+fiduciary duty were time-by the three -year statute of limitations for malpractice claims). 
+* 
+t 
+Here, the Superintendent does not allege a contractual obligation on the part of Coopers, nor 
+the breach thereof, beyond Cooper’s duty to perform its services pursuant to generally 
+accepted auditing and accounting practices pursuant to the Letters 
+ ofhangement. A breach 
+of contract claim premised solely on an accountant’s failure to exercise due care, or to abide 
+by general professional standards, is merely a redundant pleading of a malpractice claim. 
+Sage Realty v Proskauer Rose L.L.P., supra, at 38-39. 
+8 [* 9 ]
+The Superintendent’s breach of fiduciary duty and negligent misrepresentation causes 
+of action also duplicate the malpractice claim, since they “arise 
+ from the same facts ./ 
++ [the] 
+legal malpractice claim and do not allege distinct damages.” Mecca v Shanq, supra, at 570. 
+See also, White of Lake George v Bell, supra; Sage Realty Corp. v Proskauer Rose, supra. 
+AidinP 
+ - and Abettinq Officers’ and Directors’ 
+ WronPdoing 
+In the fifth cause of action, the Superintendent alleges that the individual defendants, 
+as officers and directors of the Companies, “owed Merchant Bakers and Home Mutual and 
+their policyholders and other creditors the fiduciary and other duties of an officer and 
+director,” that the individual defendants breached such duties by manipulating and falsifying I, 
+the companies’ financials, and that “Coopers was aware of such breaches qd rendered 
+substantial assistance to the 
+[ilndividual 
+ [dlefendants in committing them.” Coopers 
+allegedly “was aware of the control deficiencies making the foregoing manipulations possible 
+and of [defendant] Abidor’s domination of Merchant Bakers and Home Mutual, but ignored 
+such matters and numerous red flags as to improper practices and procedures, passively 
+? 
+accepting the individual defendant’s version of events.” Finally, the Superintendent alleges 
+that “Coopers was aware of substantial problems with the financial reporting of the [sic] 
+Home State, but ignored the warning signs . . . and failed to take necessary audit steps to 
+adequately investigate and evaluate such matters.” 
+These allegations are insufficient to state a cause of action for aiding and abetting a 
+breach of fiduciary duty, the elements of which include (1) a breach by a fiduciary of 
+9 [* 10 ]
+obligations to another; (2) the defendant’s knowing inducement of, or participation in, such 
+breach, and (3) damages as a result of the breach. S & K Sales Comuany v Nike, Inc., 816 
+\. 
+F.2d 843,847 
+ (2nd Cir 1987); see also, Shearson Lehman Brothers Inc. v Baalev, 205 AD2d 
+467 (1 
+St Dept 1994) (citing S & K Sales Companv v Nike, supra). Moreover, “an essential 
+element of aiding and abetting is that the defendant give ‘substantial assistance or 
+encouragement’ to the primary wrongdoer.” Portnoy v The American Tobacco Company, 
+1997 WL 638800 (Sup Ct NY County 1997); see also, Rostuca Holdings, Ltd v Polo, 23 1 
+AD2d 402 (lst Dept 1996) (aiding and abetting requires substantial assistance in 
+accomplishing the underlying violations). The Superintendent’s allegations that Coopers 
+ignored or permitted the alleged breaches by the individual defendants falls short of the 
+required “substantial assistance” necessary to sustain a cause of action for aiding and 2, 
+abetting. 
+Insurance Law Violations 
+Finally, the Superintendent’s causes of action based on alleged violations of the 
+v 
+Insurance Law are dismissed as barred by the three -year statute of limitations applicable to 
+! 
+actions to recover upon a liability created by statute. CPLR 214(2); Goldberg: v 
+Manufacturers Life Insurance 
+ ComDany, 242 AD2d 175 (1’‘ Dept 1998); see also, Dolce v 
+Northwestern Mutual Life Insurance Company, 272 AD2d 432 
+(2nd Dept 2000); Russo v 
+Massachusetts Mutual Life Insurance 
+ ComDanv, 274 AD2d 878 
+(3rd Dept 2000). The statute 
+of limitations on these causes of action began to run at the time the false or misleading 
+statements were made, see generally, Goldberg v Manufacturers Life Insurance Company, 
+supra, at 180, in the present case, at the time Coopers issued its opinions. 
+10 [* 11 ]
+Accordingly, it is 
+ORDERED that Coopers’ motion to dismiss the complaint is granted, and the .f first, 
+second, third, fourth, fifth, and sixth causes of action are severed and dismissed, and the 
+> 
+fifteenth cause of action is severed and dismissed as against Coopers, and it is further 
+ORDERED that the remainder of the action shall continue, and it is further 
+ORDERED that the remaining parties are directed to appear for a preliminary 
+conference before the Court on January 8,2002, in Part 39, at 9:30 a.m. 
+Dated: November 2 I, 200 1 ENTER: 
+J.S.C. 
+? 
+11 [* 12 ]

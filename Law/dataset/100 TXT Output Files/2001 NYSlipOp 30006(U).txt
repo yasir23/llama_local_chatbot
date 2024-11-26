@@ -1,0 +1,151 @@
+People v Salans Hertzfield Heilbronn Christy &
+Viener
+2001 NY Slip Op 30006(U)
+July 3, 2001
+Supreme Court, New York County
+Docket Number: _300602/8802
+Judge: Martin Schoenfeld
+Republished from New York State Unified Court
+System's E-Courts Service.
+Search E-Courts (http://www.nycourts.gov/ecourts) for
+any additional information on this case.
+This opinion is uncorrected and not selected for official
+publication.SUPREME COURT OF THE STATE OF NEW YORK 
+COUNTY OF NEW YORK: PART 28 
+...................................................................... X 
+BETWEEN THE BREAD REALTY CORPORATION, 
+Plaintiff, 
+- against - 
+SALANS HERTZFIELD HEILBRONN CHRISTY & 
+VIENER and CHRISTY & VIENER, Index No. 602880/00 
+DECISION AND ORDER 
+-f 841 
+MARTIN SCHOENFELD, J.: 
+In this action plaintiff Between the Bread Realty Corporation alleges that defendant law firm 
+Christy & Viener and its successor, defendant Salans Hertzfeld Heilbronn Christy & Viener, 
+I 
+committed malpractice in the course of representing plaintiff in negotiating and executing a 
+commercial lease. Plaintiff now moves, pursuant to CPLR 3212, for summary judgment on all four 
+causes of action in the Complaint or, alternately, for summary judgment on its first cause of action. 
+Defendants now cross -move, pursuant to CPLR 3212, for partial summary judgment dismissing 
+plaintiff‘s first cause of action. For the reasons set forth herein, the motion is denied; the cross -motion 
+is denied; and, pursuant to CPLR 3212(b), according to which a motion for summary judgment 
+“searches the record,” defendants are granted summary judgment dismissing plaintiffs third and 
+fourth causes of action. 
+Basic Background 
+To the extent here in issue, plaintiff is in the catering business. From 1996 through 1998 
+defendants represented plaintiff in seeking to lease commercial space in an office building located at [* 1 ]
+1633 Broadway, New York, New York (“the building”). Defendants knew that plaintiff was looking 
+to operate an “off-premises catering” business. On July 1, 1997, plaintiff signed a lease (Moving 
+Exhibit D) for space in the basement of the building. The rent was $19 
+ 132 1 annually, and the purpose 
+was for “off-premises catering” and related uses. Plaintiff alleges that after signing the lease, plaintiff 
+hired an engineer, Michael Parlamis, to renovate the leased space to conform to plaintiffs business. In 
+October of 1997 Parlamis allegedly informed plaintiff that the building’s Certificate of Occupancy (“C 
+of 0”) precluded operation of plaintiffs business. According to plaintiff, defendants then attempted, 
+unsuccessfully, to negotiate an amendment to the lease, setting forth a protocol for amendment of the 
+C of 0. The landlord was allegedly reluctant to seek an amendment to the C of 0 for fear that the 
+process would have a negative effect on the landlord’s ability to operate a “first -class” office building. 
+Plaintiff claims that plaintiff was unwilling to expend the costs of pursuing the uncertain amendfnent 
+process in light of the landlord’s intransigence and that plaintiff abandoned the lease amendment 
+negotiations in January 1998. 
+In March 1998 plaintiff ceased paying rent, and in December 1998 the landlord commenced an 
+action against plaintiff for rent due under the lease. Defendants commenced representing plaintiff in 
+the landlord -tenant action, which was settled in or about June 1999 with plaintiff paying the landlord 
+an undisclosed (but apparently small) sum. 
+Plaintiffs first cause of action is for malpractice, and third cause of action is for breach of 
+contract, in conducting the lease negotiations and execution. Plaintiffs second cause of action is for 
+malpractice, and fourth cause of action is for breach of contract, in defending the landlord -tenant 
+action. Plaintiff seeks damages for costs and legal fees incurred in negotiating, signing, attempting to 
+utilize, and abandoning the lease and for defending and settling the landlord -tenant action. 
+2 [* 2 ]
+Defendants primarily contend that they were not responsible for determining whether the C of 
+0 allowed off-premises catering. Defendants also contend, among other things, the following: (1) 
+that Parlamis was responsible for that determination; (2) that defendants provided Parlamis with a 
+copy of the C of 0 in May 1997, two months before plaintiff signed the lease; (3) that Parlamis either 
+failed to review the C of 0 prior to the lease signing or did so inadequately; and (4) that any losses 
+which plaintiff might have sustained in connection with the broken lease were not occasioned by any 
+limitations in the C of 0, which the landlord was allegedly willing to have amended, with plaintiff 
+assuming responsibility for the modest costs involved. 
+The parties submit expert affidavits that are in conflict as to whether the custom and practice is 
+for real estate lawyers, on the one hand (and as claimed by plaintiff), or architects and engineers, on 
+the other hand (as claimed by defendants), to advise clients about compliance with C of 0's 
+' 
+No significant discovery has taken place in this action, even though there are subpoenas and 
+discovery requests for documents outstanding. Plaintiffs motion was returnable a few days before 
+depositions were scheduled to begin. 
+Discussion and Disposition 
+Legal malpractice claims require a showing that negligence on an attorney's part proximately 
+caused actual damage. 
+In order to show proximate cause, a plaintiff -client must establish that "but for " the attorney's Greene v Pavne, Wood & Littleiohn, 197 AD2d 664,666 (2nd Dept 1993). 
+negligence, the client would have prevailed in the matter at issue or would not have sustained any 
+damages. 
+ See Senise v Mackasek, 227 AD2d 184, 185 (lst Dept 1996); Zarin v Reid & Priest, 184 
+AD2d 385,386 (lst Dept 1992). 
+3 [* 3 ]
+To survive the summary judgment stage, the plaintiff in a malpractice action cannot rest on 
+generalized allegations of deficiencies in defendant’s conduct as its attorney, but must offer admissible 
+evidence to establish the standard of professional care and skill that defendant allegedly failed to meet. 
+Thaler & Thaler v Gupta, 208 AD2d 1130 (3d Dept 1994); Estate of Nevelson v Carro, Spanbock, 
+Kaster & Cuiffo, 259 AD2d 282 (lst Dept 1999) (plaintiff must proffer expert opinion evidence on the 
+relevant duty of care). If there is conflicting expert opinion, the trier of fact must weigh the testimony 
+and make the requisite determination. 
+ See Greene v Payne, Wood & Littleiohn, supra, 197 AD2d at 
+665. 
+In the instant action there are several disputed issues of material fact. It is unclear when 
+plaintiff retained its engineer to review the C of 0 and unclear under what circumstances defendants 
+might have made the C of 0 available to the engineer. Most importantly, as noted, if the case gbes to 
+trial the trier of fact will have to determine whether defendants were responsible for reviewing the C of 
+0 and checking its compatibility with plaintiffs lease prior to its execution. See generally, Kleeman v 
+Rheingold, 8 1 NY2d 270, 276 (1993) (a client’s reasonable expectations and beliefs about who will 
+render a particular service is a significant factor in defining an attorney’s duties). There is also a 
+dispute as to how difficult amending the C of 0 would have been, a question that impacts the 
+proximate cause of 
+plaintiffs damages. See generally, Pfeffer v Pernick, 268 AD2d 262, 263 (1” Dept 
+2000) (“issues of fact exist as to whether plaintiffs damages were proximately caused by her own or 
+defendants’ conduct”). 
+Plaintiff argues that placing on the engineer the onus of determining whether the purpose set 
+forth in the lease (off-premises catering) was compatible with the C of 0 would itself be incompatible 
+with the prohibition against the unauthorized practice of law. While not without some surface appeal, 
+4 [* 4 ]
+this argument is unavailing because attorneys must often rely on scientific or other experts to 
+determine the underlying factual basis for legal opinions. Defendants and the engineer may both have 
+had a role in determining C of 0 compatibility, with the engineer responsible for the preliminary 
+investigation. If the case proceeds through disclosure and to trial, the trier of fact will have to 
+determine the respective roles of the attorneys and the engineer in the normal custom and practice in 
+the industry. 
+Plaintiff asks the court to grant it summary judgment because defendants' answer failed to 
+deny several key allegations of wrongdoing in the complaint. Defendants attribute this failure to mere 
+inadvertence and establish that they served an amended answer, as of right, within the 20 days 
+provided in the CPLR, which answer contained the requisite denials. Plaintiff cannot claim any 
+prejudice from the amendment as no significant discovery has been conducted. Therefore, defeddants' 
+failure to include the relevant denials in their original answer is not a basis on which plaintiff can 
+receive summary judgment. 
+Plaintiffs third and fourth causes of action must be dismissed because New York law is well 
+settled that a breach of contract claim premised on a professional's failure to exercise due care or to 
+abide by general professional standards is nothing but a redundant pleading of a malpractice claim. 
+State of California Pub. Empl. Retirement Sys. v Shearman & Sterling, 269 AD2d 221,223 (lst Dept), 
+affd, 95 NY2d 427 (2000); Levine v Lacher & Lovell -Taylor, 256 AD2d 147, 151 (1" Dept 1998). 
+Finally, plaintiff argues that, pursuant to the doctrine of judicial estoppel, defendants should 
+not be allowed to adopt any posture contrary to that taken in the landlord's action against plaintiff. 
+Specifically, plaintiff urges that defendants not be allowed to claim now that plaintiff was aware that 
+the C of 0 precluded operation of an off-premises catering business, when they had previously 
+5 [* 5 ]
+contended, in defending plaintiff in the landlord's action, that the landlord fraudulently induced 
+plaintiff to sign the lease by telling plaintiff that the C of 0 allowed for use of the premises as plaintiff 
+intended. The doctrine of judicial estoppel precludes a party who assumed a certain position in a prior 
+legal proceeding, and secured a judgment therein, from assuming a contrary position in another action 
+because of a change in interest. 
+ See, European Am. Bank v Miller, 265 AD2d 374 (2d Dept 1999). 
+The instant defendants were plaintiffs representatives, not parties to, the landlord -tenant action; hence, 
+the doctrine ofjudicial estoppel is inapplicable here. 
+ See Hinman, Straub, Pigors & Manninc P.C. v 
+Broder, 124 AD2d 392, 394 (3d Dept 1986) (declining to apply judicial estoppel against plaintiff 
+based on its prior position as a representative for an infant plaintiff in a settlement proceeding). 
+Conclusion 
+Thus for the reasons set forth herein, plaintiffs motion for summary judgment is denied; 
+defendants' cross -motion for summary judgment is denied; and plaintiffs third and fourth causes of 
+action are hereby dismissed with prejudice. 
+This opinion constitutes the decision and order of the court. 4 
+J.S.C. 
+6 [* 6 ]

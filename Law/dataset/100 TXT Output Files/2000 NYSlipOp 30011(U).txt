@@ -1,0 +1,145 @@
+Macalloy Corp. v Metallurg, Inc.
+2000 NY Slip Op 30011(U)
+August 16, 2000
+Supreme Court, New York County
+Docket Number: Index No. 605123/98
+Judge: Martin Schoenfeld
+Cases posted with a "30000" identifier, i.e., 2013 NY Slip
+Op 30001 (U), are republished from various New York
+State and local government sources, including the New
+York State Unified Court System's eCourts Service.
+This opinion is uncorrected and not selected for official
+publication.SUPREME COURT OF THE STATE OF NEW YORK 
+COUNTY OF NEW YORK: IAS PART 28 
+-------------------------------------x 
+MACALLOY CORPORATION, 
+-against -
+METALLURG, INC., Plaintiff, 
+Defendant. 
+-------------------------------------x 
+MARTIN SCHOENFELD, J.: 
+Background Index No. 605123/98 
+DECISION AND ORDER 
+~ \ ~ ~ 0 ,· l,\ ~ ~" 
+ib.UG 3 D 2000 
+Significant prior motion practice and the 
+sions for and against defendant's instant motion for summary 
+Judgment make clear that the sole legal issue in this declaratory 
+j UU'cjl[Ler1L ctcllun is whether the J:orce maj eure clctuse lu ll1<= 
+parties' Sale Agreement of May 19, 1998, relieves plaintiff from 
+its obligations thereunder to purchase certain chrome ore. As 
+here relevant, the force majeure clause reads as follows: 
+ARTICLE 7 
+FORCE MAJEURE 
+7.01 Force Majeure. Neither party hereto shall be 
+liable for any failure to comply with any of the terms 
+or provisions of this Agreement to the extent any such 
+failure is caused directly or indirectly by Acts of 
+God, fire, flood, strike, union or other labor prob­
+lems, shortages, war (whether or not declared), riots, 
+insurrection, sabotage, plant shutdown, equipment 
+failure, inability to obtain material (including power 
+~nd fuel), inQbility to obtQin equipment or tran9porta­
+tion, changes in Applicable Law, government restric­
+tions imposed subsequent to the date without fault on 
+the part of either of them. 
+Plaintiff contends that its failure to purchase the ore was 
+cctused by ct "plant shutdown" and/or by "governmellL resLrlcLlu1rn." 
+V 1/ _,.v 
+[* 1]
+Plaintiff's plant produced a hazardous solid waste. In 199·1 
+South Carolina environmental officials agreed to allow plaintiff 
+to use a "dry treatment process" on the waste on its site. The 
+waste was then transported to an offsite landfill. However, in 
+April of 1998, federal cnvironmcnLal official~ directed plaintiff 
+to use a ''wet treatment process" on the site. Plaintiff ini­
+tially hoped to convlnce the officials to rescind this decision. 
+In May of 1998 the parties entered into the Sale Agreement. In 
+late June or early July of 1998 the federal officials confirmed 
+their directive. Later in July of 1998 plaintiff concluded that 
+the cost of the wet treatment and of shipping the heavier wet 
+waste was prohibitive and shut down the plant. (See, generally, 
+Opposition Affidavit of Hanno D. Mott, 11 5-18) 
+Plaintiff states (id. 1 33) that compliance with the federal 
+directives 
+would have required new equipment, new procedures for 
+acceptance and unloading of ore, different waste dis­
+posal procedures and substantial changes in its process 
+for the production of ferrochrome. All of these would 
+have caused substantial additional cost which would 
+have elimina.tcd o.ny viability uf Lhe up~rctL.i.vu. 
+Thus, plaintiff claims, at best, that compliance would have cost 
+plaintiff to lose money, not that compliance would have been 
+impossible. Defendant concedes that the plant that was to 
+process the ore has been shut down. The legal question is 
+whether this shutdown trigger □ the force majeurc c1;:,uac if 
+plaintiff itself did the shutting down. 
+2 
+[* 2]
+Discussion and Disposition 
+Force Majeure clauses are no stranger to the law. "The 
+purpose of a force maJeure clause is to limit damages in a case 
+where the reasonable expectation of the parties and the perfor­
+mdnce of the contract have been frustrated by circumstances 
+beyond the control of the garties." 
+National City Bank, 52 AD2d 154, 157 United Equities Co. v. First 
+( 1 "' Dept 19 7 6) (emphasis 
+added). Here, the government did not order plaintiff to shut 
+down the plant. Since plaintiff was in control of whether or not 
+to shut down the plant, plaintiff cannot rely on the "plant 
+shutdown" clause in the force majeure clause. 
+Plaintiff claims that it intended that the clause could be 
+invoked hy il vol unt;ary shutdown. However, " [i] n adjudicating the 
+rights of parties to a contract, courts . are required to 
+discern the intent ot the parties, "'to the extent thc:tt [the 
+parties] evidenced what they intended by what they wrote'". 
+Slatt v Slatt, 64 NY2d 966, 967 (1985) (citations omitted); 
+a,ccord, Peripheral Equipment, Inc. v Farrington Mfg. Co, 29 AD?d 
+11, 13 (1st Dept 1967) ("The relevant contractual intent is that 
+expressed in the contract, even though it may not accord with the 
+subjective intent of the parties."). Furthermore, that the 
+"plant shutdown" exception was contained in a self-described 
+force majeure clause, along with numerous other events that would 
+have been beyond plaintiff's control, militates against constru­
+ing "plant shutdown" to include a voluntary shutdown by plain­
+tiff. 
+3 
+[* 3]
+Nor can plaintiff rely on "government restrictions imposed 
+subsequent to the date." lt is uncontested that the restrictions 
+were imposed prior to the date. Plaintiff's subjective (and 
+incorrect) belief that plaintiff could convince the government to 
+modify its restrictions does not change the date of "imposition." 
+Plaintiff also argues that the purpose of the Sale Agreement 
+wa.s frustrated. However, "Ll1e doctrine or rrustrat ion or purpose 
+is not available where the event which prevented perfor­
+mance was foreseeable and provision could have been made for its 
+occurrence. 11 Rebell v Trask, 220 AD2d 594, 598 (2d Dept 1995). 
+Plaintiff obviously could have foreseen that the federal environ-
+mental officials would not change their mind. Finally, we note 
+that plaintiff has not, and could not, rely on the related 
+defense of "impossibility": 
+the excuse of impossibility of performance is limited 
+to the destruction of the means of performance by an 
+act of God, vis major, or by law. Thus, where impossi­
+bility or difficulty of performance is occasioned only 
+by financial difficulty or economic hardship, even to 
+the extent of insolvency or bankruptcy, performance of 
+a contract is not excused. 
+407 East 61st Garage Inc. v Savoy Fifth Avenue Corp., 23 NY2d 
+275, 281 (1968) (citations omitted). As then-Judge Breitel noted 
+(at 282-83), a promisor does not necessarily have to perform the 
+promise, only to pay the consequences for failing to perform. 
+4 
+[* 4]
+Conclusion 
+Thus for the reasons set forth herein, defendant's motion 
+for summary judgment is granted, and the clerk is hereby directed 
+to enter judgment in favor of defendant dismissing the instant 
+action with prejudice. 
+This opinion constitutes the decision and order of the 
+Court. 
+Dated: August 16, 1000 
+J.S.C. 
+5 
+[* 5]

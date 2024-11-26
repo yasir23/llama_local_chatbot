@@ -1,0 +1,214 @@
+330 Acquisition Co., LLC v Regency Savings Bank,
+F.S.B.
+2000 NY Slip Op 30000(U)
+April 1, 2000
+Supreme Court, New York County
+Docket Number: _300109/2831
+Judge: Leland G. DeGrasse
+Republished from New York State Unified Court
+System's E-Courts Service.
+Search E-Courts (http://www.nycourts.gov/ecourts) for
+any additional information on this case.
+This opinion is uncorrected and not selected for official
+publication.0 3 
+0 0 k 
+.. 
+n 
+MOTlONlCASE IS RESPECTFULLY REFERRED TO 
+JUSTICE 
+a .. 
+;", 2 
+0 z 
+n 
+2 D 
+- 
+I- C 
+-0 0 a 
+5 
+(D rc 
+---h 
+(f. 
+2 
+0. a 
+vi 
+b 
+x 
+- 
+ox 
+UP zz 
+2 m m [* 1 ]
+SUPREME COURT : STATE OF NEW YORK 
+COUNTY OF NEW YORK : I.A.S. PART 25 
+X ...................... 
+330 ACQUISITION CO., LLC, 
+Plaintiff, 
+-against- 
+REGENCY SAVINGS BANK, F.S.B. Index No. : 
+109283/98 
+Cal. No.:131 Of 
+12/20/01 
+DeGrasse, J. : 
+Plaintiff in this action arising from a dispute between 
+the owners of a $15 million mortgage loan moves to dismiss 
+defendant's third, fourth and fifth counterclaims. 
+Defendant has stipulated to the dismissal of its third 
+counterclaim, so the court is left to decide 
+plaintiff's motion 
+only with respect to the fourth and fifth counterclaims 
+FACTS AND PROCEDURAL HISTORY 
+This action is the latest chapter in ongoing litigation 
+between the parties in state and federal court. The history of 
+this dispute is discussed in Justice 
+ Lippman's February 5, 2001 
+unpublished decision in this case, and in Judge 
+Scheindlin's 
+decisions in a related federal action 
+ (see Reqencv Savings Bank, 
+F.S.B. v Fours on Seventh, LLC, 251 BR 784) and will be briefly 
+summarized herein. 
+On March 15, 1989, the 
+parties' two predecessors in 
+interest entered into a Participation Agreement by which each party 
+owned 50% of a $15 million loan secured by a mortgage on a 
+commercial building located at 330 Seventh Avenue in Manhattan. [* 2 ]
+Under the Participation Agreement, non-party John Hancock Mutual 
+Life Insurance Policy was the active participant, and American 
+Savings Bank, and later the FDIC, was the passive participant. 
+Plaintiff 330 Acquisition Corp. (''330 
+Corp.tl) has succeeded to 
+Hancock's role as the active participant and defendant Regency 
+Savings Bank, F.S.B. ("Regency") has succeeded the FDIC as the 
+passive participant. 
+As the active participant, 330 Corp. is responsible for 
+taking most 
+Itdecisions and actions relating to the administration 
+of the Loan." However, it must obtain the consent of the passive 
+participant before it, inter alia, releases or substitutes any 
+material portion of the security for the loan, extends the maturity 
+date of the loan, or reduces the interest payable on the principal 
+amount of the loan. Upon default, 330 Corp. had the power to act 
+as the attorney in fact on behalf of the passive participant and 
+was responsible for bringing an action in foreclosure. 
+When the mortgagor defaulted in 1996, the passive 
+participant in the Participation Agreement (at the time, the FDIC) , 
+apparently frustrated with what it perceived as 
+Hancock's inaction, 
+attempted to bring a foreclosure action in federal court. Soon 
+thereafter 330 Corp. purchased the active participant's share in 
+the Participation Agreement and brought a foreclosure action in 
+state court. Thereafter the FDIC sold its interest in the 
+Participation Agreement to Regency. 
+330 Corp. brought the instant action in 1998, arguing 
+that the FDIC's transfer of its interest to Regency was void 
+2 [* 3 ]
+because the FDIC did not offer 330 Corp. a right of first refusal, 
+which 330 Corp. argued was mandated by the Participation Agreement. 
+Regency asserted counterclaims arising from 330 C0rp.I~ alleged 
+breach of the Participation Agreement. 
+In January 2000, the borrower under the loan filed for 
+Chapter 11 protection in Bankruptcy Court. The initial plan of 
+reorganization filed by the borrower included a settlement of its 
+claims under the loan. Regency filed its own proof of claim in the 
+Bankruptcy action. Ultimately Regency's claim in the Bankruptcy 
+Court was rejected as untimely and dismissed as moot pursuant to 
+ In 
+re Chateausay Corp. (10 F3d 944). (& In Re Fours on Seventh, 251 
+BR 784.) In her decision Judge Scheindlin expressly did not reach 
+the disputed issues that are litigated herein. 
+ (Id. 251 BR at 
+795. ) 
+Meanwhile this action continued to move forward. In a 
+decision dated February 5, 2001, Justice 
+Lippman granted Regency's 
+motion to dismiss the complaint, and denied 330 
+Corp.Is motion for 
+summary judgment to dismiss 
+Regency's counterclaims. Thus the only 
+claims left in the case are Regency's counterclaims. Regency filed 
+an amended answer with counterclaims in August 2001, which is the 
+subject of 330 
+Corp.'s instant motion. 
+DISCUSSION 
+Regency's fourth counterclaim alleges that 330 Corp. 
+breached its fiduciary duties to Regency. This claim fails because 
+Regency has not alleged sufficient facts tending to show that a 
+3 [* 4 ]
+fiduciary relationship existed between the parties. 
+While New York 
+Jurisprudence2d contains a terse statement 
+that the active participant in a Participation Agreement acts in a 
+fiduciary capacity toward the passive participant 
+(a 78 New York 
+Jurisprudence 2d, Mortgages, 5 277) that statement is not a 
+completely correct summary of the law. Rather, it is the written 
+terms of the Participation Agreement that determines whether a 
+fiduciary relationship exists between the participants. (See Banco 
+EsPanol de Credito v Security Pacific National Bank, 763 F Supp 36, 
+45, affld 973 F2d 51, cert. denied 509 US 903.) 
+Here, the Participation Agreement does not contain 
+language indicating that 330 Corp. acted as Regency's fiduciary. 
+The Participation Agreement does not describe the active 
+participant as the 
+l'agentl' or 
+'ltrusteelt of the passive participant. 
+(cf. Chemical Bank v Security Pacific National Bank, 20 F3d 375.) 
+Moreover, section 3.1 of the Participation Agreement 
+provides that: 
+[Nleither Participant shall be liable to 
+the other for any loss not due to its own 
+gross negligence or willful misconduct, 
+but all loss or losses incurred in 
+connection with the Notes or the 
+Mortgages, whether in connection with the 
+enforcement thereof or otherwise, shall 
+be borne ratably by the Participants in 
+accordance with their respective 
+interests. 
+A standard of gross negligence or willful misconduct does not 
+describe the duty of a fiduciary, which, in Judge 
+Cardozols famous 
+formulation is 
+"[nlot honesty alone, but the punctilio of an honor 
+the most sensitive. " 
+(Meinard v Salmon, 249 NY 458, 464; see Gibbs 
+4 [* 5 ]
+v Breed, Abbott & Morqan, 271 AD2d 180.) A similar standard of 
+liability was embodied in the participation agreement in Banco 
+Espanol de Credito, (supra 763 F Supp at 38) and the court found 
+that no fiduciary relationship existed between the active and 
+passive partners to that agreement. 
+The fact that 330 Corp. has power of attorney to act on 
+Regency's behalf in the event of a default is not, standing alone, 
+indicative of a fiduciary relationship. A fiduciary relationship 
+will not be created by the conferral of such a power where the lead 
+entity acts on its own behalf as well as that of the passive 
+entity. 
+ (See Louros v Cyr, 175 F Supp2d 497; Northwestern National 
+Ins. Co. v Alberts, 769 F Supp 498, 508.) Regency points to other 
+duties imposed on 330 Corp. by the Participation Agreement, 
+including the duty to obtain Regency's approval before hiring 
+counsel in a foreclosure proceeding, the duty to keep Regency 
+apprised of events in the foreclosure action, and the duty not to 
+compromise on various aspects of the loan without Regency's written 
+consent. These various duties are contractual in nature and merely 
+embody an allocation of rights and responsibilities between parties 
+in an arms-length transaction. They do not create a fiduciary 
+relationship. 
+ (See Banco Esvanol de Credito, 763 F Supp at 45.) 
+Defendant's fifth counterclaim sounds in unjust 
+enrichment. This claim fails as defendant has not alleged that 330 
+Corp. has been unjustly enriched by the monies obtained from the 
+mortgagor. Rather, a sum is currently held in escrow that 
+represents the amount due the passive participant of the 
+5 [* 6 ]
+Participation Agreement. There is no allegation in the complaint 
+tending to show that 330 Corp. somehow received funds due Regency. 
+(See Giant Supply Corp. v New York, 248 AD2d 231.) 
+CONCLUSION 
+Plaintiff's motion to dismiss the fourth and fifth 
+counterclaims is granted. The third counterclaim has been 
+withdrawn by stipulation. This constitutes the decision and order 
+of the court. 
+DATE : 
+J.S.C. 
+6 [* 7 ]
